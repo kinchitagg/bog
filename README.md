@@ -1,4 +1,4 @@
-# klimatic
+# klimatic (Wheather forcast app)
 
 A new Flutter project.
 
